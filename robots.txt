@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qt641158.github.io/test-seo-fix-1/sitemap.xml
+# Atom Feed: https://qt641158.github.io/test-seo-fix-1/feed.xml
